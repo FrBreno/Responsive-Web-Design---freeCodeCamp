@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,600;1,400&display=swap');
+
+body{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 17px;
+  margin: 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.85),rgba(0, 0, 0, 0.8)), url(https://conteudo.imguol.com.br/c/esporte/a4/2022/03/27/grid-de-largada-do-gp-da-arabia-saudita-da-temporada-de-2022-da-formula-1-1648402922901_v2_1920x1.jpg.webp) no-repeat fixed;
+  background-size:cover;
+}
+
+header{
+  padding: 0 0.625rem;
+  margin-bottom: 1.8rem;
+}
+
+.container{
+  max-width: 720px;
+  width: 100%;
+  margin: 3.125rem auto 0 auto;
+}
+
+h1,p{
+  margin-top: 0;
+  margin-bottom: 0rem;
+}
+
+form{
+  background-color: rgba(28, 28, 33, 0.8);
+  text-align: left;
+  padding: 2.5rem;
+  border-radius: 0.3rem;
+}
+
+fieldset{
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+.form-group{
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+label{
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+input, textarea, select{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 14.5px;
+  display: block;
+  border: 1px solid rgb(128, 128, 128);
+  color: rgb(128, 128, 128);
+  border-radius: 0.3rem;
+  width:100%;
+  padding: 0.6rem 0.7rem;
+  margin-top: 0.5rem;
+}
+
+input[type="radio"], input[type="checkbox"]{
+  display: inline;
+  width: auto;
+  margin: 0;
+  margin-right: 0.2rem;
+}
+
+.radio-checkbox, select{
+  cursor: pointer;
+}
+
+input[type="submit"]{
+  background-color:rgb(225, 6, 0) ;
+  color: rgb(255, 255, 255);
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+input[type="submit"]:hover{
+  background-color: rgb(255, 255, 255) ;
+  color: rgb(225, 6, 0);
+  border: rgb(225, 6, 0) solid 1px;
+  transition: 0.5s;
+}
