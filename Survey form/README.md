@@ -1,14 +1,6 @@
 # Survey Form
 
-<!--
-INSERIR IMAGENS:
-![]()
-![]()
-![]()
-![]()
-![]() -->
-
-## 📃Descrição
+## 📃 Descrição
 
 Language: Brazilian Portuguese.
 
@@ -36,6 +28,17 @@ O objetivo deste projeto é criar um formulário de pesquisa para coletar dados 
 - [Fonte utilizada: Titillium Web (by Google)](https://fonts.google.com/specimen/Titillium+Web?query=Titillium)
 
 ---
+
+## 📸 Resultado
+
+![Imagem 01](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Survey%20Form%20-%2001.jpg?raw=true)
+---
+![Imagem 02](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Survey%20Form%20-%2002.jpg?raw=true)
+---
+![Imagem 03](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Survey%20Form%20-%2003.jpg?raw=true)
+---
+![Imagem 04](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Survey%20Form%20-%2004.jpg?raw=true)
+
 
 ## ☕ Mais informações
 
