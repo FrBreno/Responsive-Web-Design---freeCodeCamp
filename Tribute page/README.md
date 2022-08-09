@@ -25,15 +25,16 @@ O objetivo deste projeto é criar uma página de tributo para alguma personalida
 
 ## 📸 Resultado
 
-<!--
-![Imagem 01](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Survey%20Form%20-%2001.jpg?raw=true)
+![Imagem 01](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Tribute%20Page%20-%2001.jpg?raw=true)
 ---
-![Imagem 02](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Survey%20Form%20-%2002.jpg?raw=true)
+![Imagem 02](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Tribute%20Page%20-%2002.jpg?raw=true)
 ---
-![Imagem 03](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Survey%20Form%20-%2003.jpg?raw=true)
+![Imagem 03](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Tribute%20Page%20-%2003.jpg?raw=true)
 ---
-![Imagem 04](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Survey%20Form%20-%2004.jpg?raw=true)
--->
+![Imagem 04](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Tribute%20Page%20-%2004.jpg?raw=true)
+---
+![Imagem 05](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Tribute%20Page%20-%2005.jpg?raw=true)
+
 
 ## ☕ Mais informações
 
