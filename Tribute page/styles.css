@@ -1,0 +1,84 @@
+body{
+  text-align: center;
+  color: #333;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+}
+
+main{
+  background: #eee;
+  border-radius: 6px;
+  padding: 15px;
+  margin: 30px auto;
+}
+
+h1{
+  margin-bottom: 0;
+  font-size: 2.5rem;
+}
+
+figure{
+  display: block;
+  overflow: hidden;
+  border-radius: 6px;
+  padding: 10px;
+  margin: 0;
+  background: #fff;
+}
+
+img{
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  height: auto;
+}
+
+figcaption{
+  margin: 0.9rem 0 0.3rem 0;
+}
+
+h3{
+  text-align: center;
+}
+
+#headline {
+  margin: 50px auto;
+}
+
+#tribute-info{
+  text-align: left;
+}
+
+ul{
+  line-height: 1.6;
+  max-width: 521.2px;
+  margin: 0 auto 50px auto;
+  list-style: none;
+  padding: 0rem 0rem 0rem 1.8rem;
+}
+
+li{
+  display: flex;
+  align-items: center;
+  border-left: solid 1px lightgray;
+  padding: 1.2rem 0;
+
+}
+
+.timeline-year{
+  background-color: white;
+  border-radius: 50%;
+  margin-left: -1.8rem;
+  padding: 1rem .722rem 1rem .722rem;
+  margin-right: 0.9rem;
+}
+
+blockquote{
+  max-width: 545px;
+  font-style: italic;
+  margin: 0 auto 50px auto;
+}
+
+a{
+  color:#477ca7;
+}
