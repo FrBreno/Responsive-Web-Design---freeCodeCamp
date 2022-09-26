@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+body{
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+  font-size: 0.93rem;
+  color: rgb(180, 188, 196);
+  background-color: rgb(13, 17, 23);
+}
+
+header{
+  font-size: 1.7rem;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+}
+
+/* NAVEGAÇÃO */
+nav {
+  background-color: rgb(22, 27, 34);
+  position: fixed;
+  height: 100%;
+  min-width: 290px;
+  width: 300px;
+  top:0px;
+  left: 0px;
+  border-right: 3px solid rgba(0, 0, 0, 0.4);
+  font-size: 0.95rem;
+}
+
+nav header{
+  margin: 10px 30px;
+}
+
+nav ul{
+  list-style: none;
+  padding: 0;
+}
+
+nav li{
+  padding: 10.57px 30px;
+  border-top: 1px solid rgb(0, 0, 0);
+}
+
+nav li a{
+  color: rgb(180, 188, 196);
+}
+
+/* MAIN */
+
+main{
+  position: absolute;
+  margin-left: 310px;
+  padding: 20px;
+}
+
+article{
+  margin: 15px;
+}
+
+section li {
+  margin: 15px 0px 0px 20px;
+}
+
+code {
+  display: block;
+  text-align: left;
+  background-color: rgb(22, 27, 34);
+  font-size: 0.77rem;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 15px;
+  line-height: 2;
+  white-space: pre-line;
+  word-break: normal;
+  word-wrap: normal;
+}
+a{
+  text-decoration: none;
+  color: rgb(92, 97, 102);
+}
+
+
+@media (max-width: 768px){ /*Tablet*/
+  /*NAVEGAÇÃO*/
+  nav header{
+    text-align: center;
+  }
+  
+  nav{
+    position: absolute;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    max-height: 275px;
+    border: none;
+    z-index: 1;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    overflow:hidden;
+  }
+  nav ul{
+    border-top: 1px solid rgb(0, 0, 0);
+    height: 207px;
+    overflow-x: hidden;
+  }
+
+  /*MAIN*/
+  main{
+    position: relative;
+    margin-left: 0;
+    margin-top: 300px;
+  }
+
+
+}
