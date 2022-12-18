@@ -32,11 +32,18 @@ O objetivo é criar uma landing page de um algun produto, seja fictício ou real
 
 ## 📸 Resultado
 
-![Imagem 01]()
+![Imagem 01](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Product%20Landing%20Page%20-%2001.png)
 
-![Imagem 02]()
+![Imagem 02](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Product%20Landing%20Page%20-%2002.png)
 
-![Imagem 03]()
+![Imagem 03](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Product%20Landing%20Page%20-%2003.png)
+
+### Width: 480px
+
+![Imagem 04](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Product%20Landing%20Page%20-%2004.png)
+
+![Imagem 05](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Product%20Landing%20Page%20-%2005.png)
+![Imagem 06](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Product%20Landing%20Page%20-%2006.png)
 
 ## ☕ Mais informações
 
