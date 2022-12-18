@@ -12,7 +12,7 @@ Todo o material e as tecnologias utilizadas estão disponíveis neste documento.
 
 ### 01. Objetivo
 
-O objetivo é criar um portifólio pessoal simples com projetos pessoais e links para redes sociais e outros canais de comunicação. Vale ressaltar que este projeto deve respeitar alguns critérios (click [aqui](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page) para mais informações).
+O objetivo é criar um portifólio pessoal simples com projetos pessoais e links para redes sociais e outros canais de comunicação. Vale ressaltar que este projeto deve respeitar alguns critérios (click [aqui](https://www.freecodecamp.org/portuguese/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage) para mais informações).
 
 ---
 
@@ -32,11 +32,17 @@ O objetivo é criar um portifólio pessoal simples com projetos pessoais e links
 
 ## 📸 Resultado
 
-![Imagem 01]()
+![Imagem 01](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Personal%20Portfolio%20-%2001.png)
 
-![Imagem 02]()
+![Imagem 02](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Personal%20Portfolio%20-%2002.png)
 
-![Imagem 03]()
+![Imagem 03](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Personal%20Portfolio%20-%2003.png)
+
+### Width: 480px
+
+![Imagem 04](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Personal%20Portfolio%20-%2004.png)
+![Imagem 05](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Personal%20Portfolio%20-%2005.png)
+![Imagem 06](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp/blob/main/final%20result%20-%20images/Personal%20Portfolio%20-%2006.png)
 
 ## ☕ Mais informações
 
