@@ -6,9 +6,9 @@ language: Brazilian Portuguese.
 
 Este repositório guarda uma série de projetos realizados para a certificação [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) do [freeCodeCamp](https://www.freecodecamp.org/learn). 
 
-Todo o [material](https://github.com/FrBreno/Beautysalon_NLW2021#03-materiais-e-ferramentas-utilizadas) e as [tecnologias](https://github.com/FrBreno/Beautysalon_NLW2021#02-tecnologias) utilizadas estão disponíveis neste documento.  
+Todo o [material](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp#03-materiais-e-ferramentas-utilizadas) e as [tecnologias](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp#02-tecnologias) utilizadas estão disponíveis neste documento.  
 
-Acesse os projetos [neste tópico](https://frbreno.github.io/Beautysalon_NLW2021/).
+Acesse os projetos [neste tópico](https://github.com/FrBreno/Responsive-Web-Design---freeCodeCamp#01-projetos).
 
 ## 🛠️ Construção
 
@@ -78,4 +78,4 @@ Click nos links para mais informações.
 ## ☕ Mais informações
 
 1.  Direito dos projetos reservado a plataforma do [freeCodeCamp](https://www.freecodecamp.org/learn).
-1. Por [este link]() você pode acessar o post deste prjeto no meu LinkedIn 😁.
+1. Por [este link](https://www.linkedin.com/posts/franciscobreno_freecodecamp-certificado-cursogratuito-activity-7010611208441507842-3eJq?utm_source=share&utm_medium=member_desktop) você pode acessar o post deste prjeto no meu LinkedIn 😁.
