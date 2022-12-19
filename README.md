@@ -78,4 +78,4 @@ Click nos links para mais informações.
 ## ☕ Mais informações
 
 1.  Direito dos projetos reservado a plataforma do [freeCodeCamp](https://www.freecodecamp.org/learn).
-1. Por [este link](https://www.linkedin.com/posts/franciscobreno_freecodecamp-certificado-cursogratuito-activity-7010611208441507842-3eJq?utm_source=share&utm_medium=member_desktop) você pode acessar o post deste prjeto no meu LinkedIn 😁.
+1. Por [este link](https://www.linkedin.com/posts/franciscobreno_freecodecamp-certificado-cursogratuito-activity-7010611208441507842-3eJq?utm_source=share&utm_medium=member_desktop) você pode acessar o post deste projeto no meu LinkedIn 😁.
